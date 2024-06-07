@@ -1,0 +1,14 @@
+[
+    {
+        "nom" : "Joueur1",
+        "couleur" : "rouge",
+        "dé" : 3,
+        "case_courante" : 5
+    },
+    {
+        "nom" : "Joueur2",
+        "couleur" : "vert",
+        "dé" : 7,
+        "case_courante" : 11
+    }
+]
