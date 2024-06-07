@@ -1,3 +1,11 @@
+{
+  "Access-Control-Allow-Origin": ["https://github.com/suzymako/multiplayer-Ludo/blob/main/json.json", "*"],
+  "Access-Control-Allow-Methods": ["GET", "POST", "PUT", "DELETE"],
+  "Access-Control-Allow-Headers": ["Content-Type", "Authorization"],
+  "Access-Control-Max-Age": 3600,
+  "Access-Control-Allow-Credentials": true
+}
+
 [
     {
         "nom" : "Joueur1",
